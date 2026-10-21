@@ -41,7 +41,7 @@ El repositorio tendrá una rama `main`, que se mantendrá como la versión estab
 | 24-25/10/2026 | Integrar interfaz e identidad visual | Alexis | Commits, Pull Request y revisión visual |
 | 25-26/10/2026 | Integrar reportes, pruebas y archivos de instalación | José Franklin | Commits, Pull Request y resultados de pruebas |
 | 27-28/10/2026 | Revisar en conjunto la versión integrada en `develop` | Equipo | Revisiones y pruebas generales |
-| 29-30/10/2026 | Probar FarmaStock con el negocio y recopilar observaciones | Equipo | Evidencias y comentarios recibidos |
+| 29-30/10/2026 | Probar FarmaStock con el negocio y recopilar observaciones | Integrante encargado de la visita | Evidencias y comentarios recibidos |
 | 30/10-01/11/2026 | Elaborar el manual de usuario con capturas y pasos | Ricardo | Manual de usuario |
 | 01-02/11/2026 | Revisar la entrega y practicar la exposición | Equipo | Revisión final y ensayo |
 | 03/11/2026 | Entrega final | Equipo | Proyecto completo |
