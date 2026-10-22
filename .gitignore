@@ -1,0 +1,52 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Base de datos local
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos de respaldo generados
+backups/
+backup/
+*.bak
+
+# Compilación y ejecutables
+build/
+dist/
+*.exe
+
+# Instaladores generados
+installer/
+
+# Reportes generados por la aplicación
+reportes/
+reports/
+*.xlsx
+*.xls
+*.pdf
+
+# Cachés de pruebas
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE y editor
+.vscode/
+.idea/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
