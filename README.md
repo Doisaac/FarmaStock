@@ -13,3 +13,7 @@ Proporcionar una herramienta sencilla y funcional que permita mantener actualiza
 Proyecto desarrollado para la asignatura **Asesoría Profesional** de la carrera de **Ingeniería en Desarrollo de Software** de la Universidad de El Salvador.
 
 El proyecto parte del análisis de un negocio real y busca responder mediante una solución tecnológica a una oportunidad de mejora identificada durante el proceso de diagnóstico.
+
+## Alcance del proyecto
+
+FarmaStock busca ofrecer una experiencia de uso sencilla y organizada, adaptada a las necesidades de gestión de un pequeño negocio farmacéutico.
