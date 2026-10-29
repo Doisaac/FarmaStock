@@ -28,13 +28,13 @@ ArchitecturesInstallIn64BitMode=x64compatible
 UninstallDisplayIcon={app}\{#MyAppIconName}
 
 ; Carpeta donde se genera el instalador
-OutputDir=C:\Users\Ricardo\Desktop\MATERIAS CICLO II - 2026\APR135 -  Asesoría Profesional\Trbajo\Proyecto_funcional\FarmaStock\installer
+OutputDir=installer
 
 ; Nombre del instalador final
 OutputBaseFilename=FarmaStock_Setup_1.0.0
 
 ; Icono del propio instalador
-SetupIconFile=C:\Users\Ricardo\Desktop\MATERIAS CICLO II - 2026\APR135 -  Asesoría Profesional\Trbajo\Proyecto_funcional\FarmaStock\FarmaStock.ico
+SetupIconFile=FarmaStock.ico
 
 ; Información del instalador
 VersionInfoVersion=1.0.0.0
@@ -58,17 +58,17 @@ Flags: unchecked
 [Files]
 
 ; Ejecutable principal
-Source: "C:\Users\Ricardo\Desktop\MATERIAS CICLO II - 2026\APR135 -  Asesoría Profesional\Trbajo\Proyecto_funcional\FarmaStock\dist\FarmaStock\{#MyAppExeName}"; \
+Source: "dist\FarmaStock\{#MyAppExeName}"; \
 DestDir: "{app}"; \
 Flags: ignoreversion
 
 ; Dependencias generadas por PyInstaller
-Source: "C:\Users\Ricardo\Desktop\MATERIAS CICLO II - 2026\APR135 -  Asesoría Profesional\Trbajo\Proyecto_funcional\FarmaStock\dist\FarmaStock\_internal\*"; \
+Source: "dist\FarmaStock\_internal\*"; \
 DestDir: "{app}\_internal"; \
 Flags: ignoreversion recursesubdirs createallsubdirs
 
 ; Logo/icono de FarmaStock para accesos directos y Windows
-Source: "C:\Users\Ricardo\Desktop\MATERIAS CICLO II - 2026\APR135 -  Asesoría Profesional\Trbajo\Proyecto_funcional\FarmaStock\FarmaStock.ico"; \
+Source: "FarmaStock.ico"; \
 DestDir: "{app}"; \
 Flags: ignoreversion
 
